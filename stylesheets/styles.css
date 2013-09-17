@@ -24,6 +24,11 @@ h1 {
   font-size:28px;
 }
 
+h1 a {
+  color: #222;
+  font-weight: bold;
+}
+
 h2 {
   color:#393939;
 }
@@ -57,7 +62,7 @@ blockquote {
   font-style:italic;
 }
 
-code, pre {
+code, pre, tags {
   font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal;
   color:#333;
   font-size:12px;
@@ -231,7 +236,7 @@ footer {
     position:static;
   }
   
-  pre, code {
+  pre, code, tags {
     word-wrap:normal;
   }
 }
