@@ -239,6 +239,9 @@ footer {
   pre, code, tags {
     word-wrap:normal;
   }
+  tags {
+    white-space: normal;
+  }
 }
 
 @media print, screen and (max-width: 480px) {
