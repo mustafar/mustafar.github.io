@@ -12,8 +12,18 @@ h1, h2, h3, h4, h5, h6 {
   margin:0 0 20px;
 }
 
-p, ul, ol, table, pre, dl {
+h3 {
+  margin-bottom: 5px;
+}
+
+p, ol, table, pre, dl {
   margin:0 0 20px;
+}
+
+ul {
+  list-style: none;
+  padding: 0 !important;
+  margin: 0 0 7px 0 !important;
 }
 
 h1, h2, h3 {
@@ -70,7 +80,7 @@ code, pre, tags {
 
 pre {
   padding:8px 15px;
-  background: #f8f8f8;  
+  background: #f8f8f8;
   border-radius:5px;
   border:1px solid #e5e5e5;
   overflow-x: auto;
