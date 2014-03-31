@@ -1,0 +1,66 @@
+==================================================================
+https://keybase.io/mustafa
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://mustafarizvi.com
+  * I am mustafa (https://keybase.io/mustafa) on keybase.
+  * I have a public key with fingerprint 4166 19E2 C378 6CEA 4378  BF2D ABAC 73F3 1027 620B
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "416619e2c3786cea4378bf2dabac73f31027620b",
+            "host": "keybase.io",
+            "key_id": "abac73f31027620b",
+            "uid": "b34445e2975a821d44b4864e44670500",
+            "username": "mustafa"
+        },
+        "service": {
+            "hostname": "mustafarizvi.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1396224355,
+    "expire_in": 157680000,
+    "prev": "9592fff6d76ccc3e43e77b3a7e33fe0f25dc9725ef2aa32b40d15ba386b53f75",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v0.1.1
+Comment: https://keybase.io/crypto
+
+yMHxAnicbZFtSBRbGMfX62a1olSsGSgJ44dMxGbmzMvOavjC5fZFtNxCXIT1zMyZ
+ddDdWWdmd/NlcemCGa6YIcq9RH3I3ChJ0htFaVnYi9iXurdAw4Re7pe4oOQN6vbi
+Gbl9CDpfHs7/+f3/zzk8sxmpNkdKayBQ5xTr/k6Zn1kL2zyuK1IHIWpyG+HuIJrR
+RlHUoB/pIV0NmoSbYCiOowRES4B3cRKCDK6iQstQhBIPFECRNM/RpEgUEU2aYTlw
+jAgNVKxqWMMXnypj9Qd8eKMhAoZhWEQLPAtdNCUzjMi4OAYxDMeTLElaoIH0IAwg
+TAfChgkVSMSKCCxGVAmLHRuTvwd0tT2iFktaANtDumZqktaCu02mGXJbZrMtZNFR
+JPr+z/GJalDGX8eGCNINVQsSbgqTkqlawRQQOJpmAMsWEehoSNWRT7UIludcJD7W
+GBTBkQIr0IqicDLPSZIEEAMQz4sA8ggABZEKzcqSwNMsUmgIAS0ypEyxIgQuTmSB
+wrN4voFagxrhBviZ0I8jDdUfhGZYR0Ts7kyD3ZbisKVt+slans2xddu3lY6ubrHd
+n6o8V7+4c6hh3FHQ1dMYLX+xebpvuWbF7CmcnDtWcHZ/1cRsbTy/0+O1+ycO7Boc
+aL7avT0eKN0dH7iZMOJZsZewumr+r7LEYtSNeiMnV47UlFXzBefv7BCWWsDQvdHU
+vdrFwbknpZUPZ5+OeDPe2gMfKvvzuvesnkk8Ksz+p+TTz57/HrhK1JxnFWM5mZdT
+r6ULF/bl9gHn1MHxzOnrz/uTsfbkm6zPS54v3j9+Sfx5ms5tGnbGfG3RvN9C3ORi
+9tpCxVAyXv36d2Ww/HhZ/Y1LyYUTdq63s6t2YYAiXy2nJcbc0tLXj786by3fnnjv
+dKR7h081vut7fGgk/9/D6wm0EGQ=
+=zdPu
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mustafa
+
+==================================================================
+
